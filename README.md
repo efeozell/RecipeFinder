@@ -8,7 +8,7 @@ However, this particular project was more focused on practicing and learning rat
 
 🔗 This application fetches meal recipes from [TheMealDB](https://www.themealdb.com/api.php), allowing users to search for meals and view detailed cooking instructions.
 
-🔧 Technologies
+# 🔧 Technologies
 
 - React
 - Axios
@@ -23,6 +23,11 @@ I also reinforced my knowledge of React Hooks, both in writing and using them in
 I made some mistakes along the way — at one point, I spent almost 30 minutes debugging due to a simple typo.
 But I kept going, and eventually achieved my goal.
 
+In this project, I fetched all recipe details—including ingredients, instructions, and descriptions—directly from TheMealDB API to dynamically display on each recipe’s detail page.
+
 ## 📸 Screenshots
 
-![App Screenshot](/images/readme.png)
+![App Screenshot]
+(/images/readme.png)
+(/images/readme_recipe.png)
+(/images/readme_recipe1.png)
