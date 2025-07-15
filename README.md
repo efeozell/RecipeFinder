@@ -27,7 +27,6 @@ In this project, I fetched all recipe details—including ingredients, instructi
 
 ## 📸 Screenshots
 
-![App Screenshot]
-(/images/readme.png)
-(/images/readme_recipe.png)
-(/images/readme_recipe1.png)
+![App Screenshot](/images/readme.png)
+![App Screenshot](/images/readme_recipe.png)
+![App Screenshot](/images/readme_recipe1.png)
